@@ -24,6 +24,12 @@ Momentum is a beautifully designed iOS app built with **SwiftUI** and **Firebase
 
 ---
 
+
+DEMO : 
+
+![App Demo](https://i.imgur.com/RuiTGsd.gif)
+
+
 ## 🛠 Installation
 
 1. Clone the repo:
